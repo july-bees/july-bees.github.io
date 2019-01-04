@@ -1,0 +1,2 @@
+webpackJsonp([15],{"/HYZ":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"app-container"},[this._v("\n  投诉\n")])},staticRenderFns:[]},r=n("VU/8")({},s,!1,null,null,null);t.default=r.exports}});
+//# sourceMappingURL=15.29f33bf53e104e757b67.js.map
